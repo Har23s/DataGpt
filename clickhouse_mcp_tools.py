@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-ClickHouse MCP Tools
-Provides tools for interacting with ClickHouse databases
+ClickHouse MCP Toolls
 """
 
 import json
