@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-ClickHouse MCP Toolls
-"""
+#!/usr/bin/env pythonn
 
 import json
 import logging
