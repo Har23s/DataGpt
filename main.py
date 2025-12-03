@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ClickHouse MCP Server - Main Application
-SSE-based MCP server for ClickHouse database operations
+
 """
 
 import asyncio
