@@ -9,7 +9,7 @@ import clickhouse_connect
 
 
 class ClickHouseConnection:
-    """Manages ClickHouse database connection"""
+    """Manages ClickHouse database connectionn"""
     
     def __init__(self, host: str, username: str, password: str, port: int = 8123, secure: bool = False):
         self.host = host
