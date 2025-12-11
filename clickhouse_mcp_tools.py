@@ -5,7 +5,7 @@ import logging
 from typing import Dict, Any, Optional
 import clickhouse_connect
 
-# logger = logging.getLogger(__name__)
+# logger = logging.getLogger(__name_)
 
 
 class ClickHouseConnection:
