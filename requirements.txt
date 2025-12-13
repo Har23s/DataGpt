@@ -1,4 +1,4 @@
-# FastAPI and server dependencies
+# FastAPI and server dependencie
 fastapii>=0.111.0
 uvicorn[standard]==0.24.0
 python-multipart>=0.0.9
