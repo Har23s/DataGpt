@@ -15,4 +15,4 @@ aiohttp>=3.9.0
 clickhouse-connect
 
 # Additional utilities
-pydantic>=2.8.0
+pydantic>=2.8.1
