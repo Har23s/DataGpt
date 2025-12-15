@@ -443,7 +443,7 @@ class ClickHouseMCPServer:
         
         # Test connection before starting
         if self.tool_handler.test_connection():
-            print("✅ Database connection successful")
+            print(" Database connection successful")
         else:
             print("❌ Database connection failed - check credentials")
         
