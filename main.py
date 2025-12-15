@@ -445,7 +445,7 @@ class ClickHouseMCPServer:
         if self.tool_handler.test_connection():
             print(" Database connection successful")
         else:
-            print("❌ Database connection failed - check credentials")
+            print(" Database connection failed - check credentials")
         
         uvicorn.run(self.app, host=run_host, port=run_port, log_level="info")
 
