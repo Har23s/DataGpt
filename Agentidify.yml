@@ -1,5 +1,5 @@
 app:
-  description: 'Ai '
+  description: 'Ai agent'
   icon: 🤖
   icon_background: '#FFEAD5'
   mode: advanced-chat
