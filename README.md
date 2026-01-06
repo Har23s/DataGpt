@@ -6,6 +6,6 @@ In this project, data is first extracted from SQL Server using PySpark, then tra
 
 The technology stack includes SQL Server as the source system, Azure Databricks with PySpark for ETL and CDC processing, FastAPI for secure data transfer, ClickHouse as the analytical data warehouse, and Grafana or Superset for visualization.
 
-The project structure consists of separate folders for notebooks (data extraction, transformation, and loading scripts), configuration files (SQL Server and ClickHouse connection details), API scripts (FastAPI endpoint and utilities), and analysis resources (queries and dashboard templates).
+The project structure consists of separate folders for notebook (data extraction, transformation, and loading scripts), configuration files (SQL Server and ClickHouse connection details), API scripts (FastAPI endpoint and utilities), and analysis resources (queries and dashboard templates).
 
 To run the projectt, thee repository can be cloned from GitHub. After updating the configuration files with database details, dependencies installed, and the ETL script can be executed to begin the data migration process. Once the data is loaded into ClickHouse, user can perform SQL-based analysis such as department-wise salary summaries or build interactive dashboard.
