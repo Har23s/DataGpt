@@ -1,5 +1,5 @@
 
-![Uploading Gemini_Generated_Image_8p0v7c8p0v7c8p0v.png…]()
+<img width="559" height="507" alt="Screenshot 2026-01-28 at 2 28 35 PM" src="https://github.com/user-attachments/assets/9255a63d-d9f9-4a3d-a3d2-379189c93ef4" />
 
 
 The Datagpt project includes ClickHouse Data Migration and Analysis project focuses on migrating data from an on-premise SQL Server to ClickHouse using PySpark (on Databricks) and FastAPI. The main objective is to enable fast, cloud-based analytics through automated ETL and Change Data Capture (CDC) processe.
